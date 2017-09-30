@@ -1,3 +1,3 @@
 # GIT-AND-GITHUB---EXERCISES
-Hello GitBash
+Hello
 
