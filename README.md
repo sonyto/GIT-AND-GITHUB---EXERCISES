@@ -1,3 +1,5 @@
 # GIT-AND-GITHUB---EXERCISES
 Hello
+Hi all
+
 
