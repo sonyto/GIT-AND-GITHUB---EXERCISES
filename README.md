@@ -1,5 +1,4 @@
 # GIT-AND-GITHUB---EXERCISES
-Hello
-Hi all
+New Branch
 
 
