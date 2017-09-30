@@ -1,5 +1,5 @@
 # GIT-AND-GITHUB---EXERCISES
 Hello
-Hi all
+Hi from Master!
 
 
