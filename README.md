@@ -1,5 +1,4 @@
 # GIT-AND-GITHUB---EXERCISES
-Hello
-Hi from Master!
+Almost Done for Today!
 
 
