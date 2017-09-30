@@ -2,5 +2,5 @@
 C# CONDITIONAL STATEMENTS AND LOOPS - EXERCISES
 test...
 test2...
-!I Love GitHub
+I Love GitHub
 
